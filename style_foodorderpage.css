@@ -1,0 +1,37 @@
+
+.bg-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/foodbg.png");
+    height: 100vh;
+    width: 100vw;
+    background-size: cover;
+}
+
+.main-box {
+    background-color: #f6c56e;
+    width: 100vw;
+    height: 230px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    padding: 25px;
+}
+
+.heading {
+    font-family: "Bree Serif";
+
+}
+
+.paragraph {
+    font-family: Roboto;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.button {
+    font-weight: bold;
+    height: 55px;
+    width: 160px;
+    background-color: #ffffff;
+    font-family: Roboto;
+    border-radius: 10px;
+
+}
